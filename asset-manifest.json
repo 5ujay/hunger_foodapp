@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/hunger_foodapp/static/css/main.27c63481.css",
+    "main.js": "/hunger_foodapp/static/js/main.1d29005f.js",
+    "index.html": "/hunger_foodapp/index.html",
+    "main.27c63481.css.map": "/hunger_foodapp/static/css/main.27c63481.css.map",
+    "main.1d29005f.js.map": "/hunger_foodapp/static/js/main.1d29005f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.27c63481.css",
+    "static/js/main.1d29005f.js"
+  ]
+}
