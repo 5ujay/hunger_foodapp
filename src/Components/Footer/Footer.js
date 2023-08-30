@@ -41,8 +41,8 @@ const Footer = () => {
                             Call us
                         </div>
                         <div className="foot-description">
-                            A108 Adam Street <br />
-                            New York, NY 535022 - US
+                            Phone: +1 5589 55488 55 <br />
+                            Email: info@example.com
                         </div>
 
                     </div>
@@ -60,8 +60,8 @@ const Footer = () => {
                             Time
                         </div>
                         <div className="foot-description">
-                            A108 Adam Street <br />
-                            New York, NY 535022 - US
+                            Mon-Sat: 11AM - 23PM <br />
+                            Sunday: Closed
                         </div>
 
                     </div>
