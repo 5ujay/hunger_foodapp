@@ -38,11 +38,10 @@ const Footer = () => {
                     <div className="foot-detail">
 
                         <div className="footname">
-                            Address
+                            Call us 
                         </div>
                         <div className="foot-description">
-                            A108 Adam Street <br />
-                            New York, NY 535022 - US
+                            91+ 172 000 000
                         </div>
 
                     </div>
@@ -57,11 +56,11 @@ const Footer = () => {
                     <div className="foot-detail">
 
                         <div className="footname">
-                            Address
+                            Time
                         </div>
                         <div className="foot-description">
-                            A108 Adam Street <br />
-                            New York, NY 535022 - US
+                           Mon-Sat: 11AM - 23PM <br/>
+                           Sunday: Closed
                         </div>
 
                     </div>
