@@ -38,7 +38,7 @@ const Footer = () => {
                     <div className="foot-detail">
 
                         <div className="footname">
-                            Address
+                            Call us
                         </div>
                         <div className="foot-description">
                             A108 Adam Street <br />
@@ -57,7 +57,7 @@ const Footer = () => {
                     <div className="foot-detail">
 
                         <div className="footname">
-                            Address
+                            Time
                         </div>
                         <div className="foot-description">
                             A108 Adam Street <br />
