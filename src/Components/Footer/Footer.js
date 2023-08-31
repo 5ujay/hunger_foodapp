@@ -38,7 +38,7 @@ const Footer = () => {
                     <div className="foot-detail">
 
                         <div className="footname">
-                            Call us
+                            Reservations
                         </div>
                         <div className="foot-description">
                             Phone: +1 5589 55488 55 <br />
@@ -57,7 +57,7 @@ const Footer = () => {
                     <div className="foot-detail">
 
                         <div className="footname">
-                            Time
+                            Opening Hours
                         </div>
                         <div className="foot-description">
                             Mon-Sat: 11AM - 23PM <br />
