@@ -38,11 +38,11 @@ const Footer = () => {
                     <div className="foot-detail">
 
                         <div className="footname">
-                            Reservations
+                            Address
                         </div>
                         <div className="foot-description">
-                            Phone: +1 5589 55488 55 <br />
-                            Email: info@example.com
+                            A108 Adam Street <br />
+                            New York, NY 535022 - US
                         </div>
 
                     </div>
@@ -57,11 +57,11 @@ const Footer = () => {
                     <div className="foot-detail">
 
                         <div className="footname">
-                            Opening Hours
+                            Address
                         </div>
                         <div className="foot-description">
-                            Mon-Sat: 11AM - 23PM <br />
-                            Sunday: Closed
+                            A108 Adam Street <br />
+                            New York, NY 535022 - US
                         </div>
 
                     </div>
